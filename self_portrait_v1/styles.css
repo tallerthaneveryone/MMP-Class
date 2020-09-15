@@ -1,0 +1,20 @@
+/* our comment goes in here*/
+
+body{
+background-color: #ECF0F1; 
+font-family: 'oswald'; 
+font-size: 18
+
+;    
+}
+ul{
+        margin: 0;
+        padding: 0;
+}
+
+#header {
+	display: flex;
+	justify-content: space-between;
+    align-items: baseline;
+}
+
